@@ -1,0 +1,1 @@
+/home/stas/.config/omarchy/current/theme/neovim.lua
