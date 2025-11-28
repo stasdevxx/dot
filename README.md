@@ -41,5 +41,5 @@ Notes
   ```bash
   cd ~/.dotfiles && bash install.sh
   ```
-- Installs: `stow`, `firefox`, and `hyprdynamicmonitors` (AUR).
+- Installs: `stow`, `firefox`, `git`, `ripgrep`, `fd`, `github-cli`, and `hyprdynamicmonitors-bin` (AUR).
 - Uses `pacman` for repo packages; uses `yay` for AUR if present, otherwise prints instructions.
